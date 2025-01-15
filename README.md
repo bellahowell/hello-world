@@ -1,2 +1,2 @@
 # hello-world
-the repository is for practicing GitHub flow
+my name is Bella & I go to UCSD
